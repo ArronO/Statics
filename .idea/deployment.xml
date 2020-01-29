@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="Docker Host (9d98adfc-9d63-4730-beaf-b2dd4af7095d)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/cmake-build-debug" local="$PROJECT_DIR$/cmake-build-debug" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
